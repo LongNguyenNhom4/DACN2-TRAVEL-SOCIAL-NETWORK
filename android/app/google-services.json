@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069173036029",
+    "project_id": "travel-app-c19b5",
+    "storage_bucket": "travel-app-c19b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069173036029:android:7fee3b5cfd0524d3aebf94",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVC6xuJY5Zsk3Q13MOWuOnLXR25DhkWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
